@@ -1,0 +1,11 @@
+{
+    "Deliveries":[
+    {
+        "GoodsType": "Electronics",
+        "amount":7700.17
+    },
+    {
+        "GoodsType": "Electronics",
+        "amount":97.21
+    }]
+}

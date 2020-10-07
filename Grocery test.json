@@ -1,0 +1,11 @@
+{
+    "Deliveries":[
+    {
+        "GoodsType": "Grocery",
+        "amount":5.07
+    },
+    {
+        "GoodsType": "Stationery",
+        "amount":25.00
+    }]
+}
